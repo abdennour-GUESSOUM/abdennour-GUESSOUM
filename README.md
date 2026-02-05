@@ -42,16 +42,16 @@
 ## Compétences clés
 
 **Langages** : C/C++ | VHDL | Verilog | Python | Go | Ada  
-**Frameworks / Outils** : Vivado | Vitis | HLS4ML | PyTorch | TensorFlow | FreeRTOS | Zephyr | RTEMS  
+**Frameworks / Outils** : Vivado | Vitis | hls4ml | PyTorch | TensorFlow | FreeRTOS | Zephyr | RTEMS  
 **Hardware** : ZedBoard | Arduino | ESP32 | Raspberry Pi | BeagleBone  
 **Protocoles** : SPI | I²C | UART | CAN | TCP/IP
 
 ## Projets (clique pour voir le code)
 
-- **[FPGA Autoencodeur HLS4ML @ Thales](https://github.com/abdennour-GUESSOUM/fpga-hls4ml-autoencoder)** : Portage et perf sur FPGA
+- **[FPGA hls4ml](https://github.com/abdennour-GUESSOUM/fpga-hls4mlr)** : Portage et perf sur FPGA
 - **[Driver Linux Publisher/Subscriber](https://github.com/abdennour-GUESSOUM/linux-driver-pubsub)** : C POSIX, modes sampling/FIFO
 - **[Pilote OLED sur Zynq](https://github.com/abdennour-GUESSOUM/zynq-oled-spi-driver)** : VHDL maître SPI + driver C
-- **[Contrôle LED PWM + DMA Zynq](https://github.com/abdennour-GUESSOUM/zynq-pwm-dma)** : IP VHDL configurable + AXI4/DMA
+- **[Contrôle LED PWM + DMA](https://github.com/abdennour-GUESSOUM/zynq-pwm-dma)** : IP VHDL configurable + AXI4/DMA
 
 ---
 
