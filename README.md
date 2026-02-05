@@ -56,8 +56,11 @@
 ## 💼 Compétences
 
 **Langages** : Java | Flutter | Kotlin | C/C++ | Python | Go | Ada | VHDL | Verilog
-**Frameworks / Outils** : PyTorch | TensorFlow | Vivado | Vitis | hls4ml | FreeRTOS | RTEMS  
+
+**Frameworks / Outils** : PyTorch | TensorFlow | Vivado | Vitis | hls4ml | FreeRTOS | RTEMS
+
 **Hardware** : ZedBoard | Arduino | ESP32 | Raspberry Pi | BeagleBone  AI/Black
+
 **Protocoles** : SPI | I²C | UART | CAN | TCP/IP
 
 ---
