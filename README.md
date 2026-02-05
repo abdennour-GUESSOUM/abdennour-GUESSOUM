@@ -66,7 +66,7 @@
 ## 🚀 Projets
 
 <!-- - **[FPGA hls4ml](https://github.com/abdennour-GUESSOUM/fpga-hls4ml)** : Portage et perf sur FPGA -->
-<!-- - **[Driver Linux Publisher/Subscriber](https://github.com/abdennour-GUESSOUM/linux-driver-pubsub)** : C POSIX, modes sampling/FIFO -->
+- **[Succube Linux Driver](https://github.com/abdennour-GUESSOUM/Succube-linux-driver)** : Driver Linux en C (POSIX), modes sampling/FIFO
 <!-- - **[Pilote OLED sur Zynq](https://github.com/abdennour-GUESSOUM/zynq-oled-spi-driver)** : VHDL maître SPI + driver C -->
 <!-- - **[Contrôle LED PWM + DMA](https://github.com/abdennour-GUESSOUM/zynq-pwm-dma)** : IP VHDL configurable + AXI4/DMA -->
 
