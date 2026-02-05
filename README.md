@@ -62,17 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdennour-GUESSOUM&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdennour-GUESSOUM&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
----
 
 ## 🚀 Projets
 
