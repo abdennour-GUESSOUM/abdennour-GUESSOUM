@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,50:34495E,100:5D6D7E&height=180&section=header&text=Abdennour%20GUESSOUM&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Embedded%20Systems%20Engineer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,50:34495E,100:5D6D7E&height=180&section=header&text=Abdennour%20GUESSOUM&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Software%20Developer&descAlignY=55&descSize=18" />
 </p>
 
-<h3 align="center">🎓 Étudiant M2 Logiciels pour Systèmes Embarqués à l'UBO Brest</h3>
+<h3 align="center">🎓 Étudiant en Master 2 Infomatique à l'Université de Bretagne Occidentale Brest</h3>
 
 
 <p align="center">
@@ -16,15 +16,15 @@
 
 ## 👨‍💻 À propos de moi
 
-🔭 **Actuellement** : projet sur IA embarquée
+🔭 **Actuellement** : Projet sur IA embarquée
 
-🎯 **Recherche** : Stage PFE 4-6 mois (mars 2026) - Dev embarqué/RTOS/Microcontrôleur/Interfaces embarquées
+🎯 **Recherche** : Stage PFE 4-6 mois (mars 2026) - Dev logiciel/IA et data/Mobile ou Web/Embarqué
 
-🌱 **Apprentissage** : Compilation noyau linux, systèmes temps réel, systèmes sur puces, accélération matérielle IA 
+🌱 **Apprentissage** : développement mobile, IoT, Compilation noyau linux, systèmes temps réel, systèmes sur puces
 
-💬 **Discutons de** : Systèmes embarqués, RTOS, FPGA, drivers  
+💬 **Discutons de** : IA, applications, UI, Systèmes embarqués, RTOS, drivers  
 
-⚡ **Fun fact** : Passionné par l'optimisation!
+⚡ **Fun fact** : Passionné par l'ergonomie et l'optimisation!
 
 <br/>
 
@@ -53,11 +53,11 @@
 
 ---
 
-## 💼 Compétences clés
+## 💼 Compétences
 
-**Langages** : C/C++ | VHDL | Verilog | Python | Go | Ada  
-**Frameworks / Outils** : Vivado | Vitis | hls4ml | PyTorch | TensorFlow | FreeRTOS | Zephyr | RTEMS  
-**Hardware** : ZedBoard | Arduino | ESP32 | Raspberry Pi | BeagleBone  
+**Langages** : Java | Flutter | Kotlin | C/C++ | Python | Go | Ada | VHDL | Verilog
+**Frameworks / Outils** : PyTorch | TensorFlow | Vivado | Vitis | hls4ml | FreeRTOS | RTEMS  
+**Hardware** : ZedBoard | Arduino | ESP32 | Raspberry Pi | BeagleBone  AI/Black
 **Protocoles** : SPI | I²C | UART | CAN | TCP/IP
 
 ---
@@ -74,6 +74,5 @@
 ---
 
 <p align="center">
-  <i>Passionné par l'embarqué et les systèmes temps réel</i><br>
   <b>Open to opportunities !</b>
 </p>
