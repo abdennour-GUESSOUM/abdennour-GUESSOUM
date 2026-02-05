@@ -14,6 +14,7 @@
 
 # Salut ! Je suis Abdennour Guessoum 👋
 
+ 
 Étudiant M2 Logiciels pour Systèmes Embarqués à l'Université de Bretagne Occidentale
 
 <br/>
@@ -37,8 +38,6 @@
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Vivado" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/AMD_Vivado_logo.svg" />
-<img align="left" alt="Vitis" width="34px" src="https://www.new-techeurope.com/wp-content/uploads/2019/10/Xilinx-Vitis-3Logo.jpg" />
 <img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" />
 
@@ -54,14 +53,13 @@
 **Hardware** : ZedBoard | Arduino | ESP32 | Raspberry Pi | BeagleBone  
 **Protocoles** : SPI | I²C | UART | CAN | TCP/IP
 
-## Projets (clique pour voir le code)
+## Projets
 
 <!-- - **[FPGA hls4ml](https://github.com/abdennour-GUESSOUM/fpga-hls4ml)** : Portage et perf sur FPGA -->
 <!-- - **[Driver Linux Publisher/Subscriber](https://github.com/abdennour-GUESSOUM/linux-driver-pubsub)** : C POSIX, modes sampling/FIFO -->
 <!-- - **[Pilote OLED sur Zynq](https://github.com/abdennour-GUESSOUM/zynq-oled-spi-driver)** : VHDL maître SPI + driver C -->
 <!-- - **[Contrôle LED PWM + DMA](https://github.com/abdennour-GUESSOUM/zynq-pwm-dma)** : IP VHDL configurable + AXI4/DMA -->
 
----
 
 Passionné par l'embarqué et les systèmes temps réel  
 Disponible pour stage dès mars 2026 – Open to opportunities !
