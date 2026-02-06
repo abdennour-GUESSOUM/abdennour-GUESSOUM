@@ -108,8 +108,8 @@
 
 - **[LeNet-5 hls4ml](https://github.com/abdennour-GUESSOUM/Lenet5-hls4ml)** : TensorFlow/Keras, hls4ml, Vitis HLS.
 - **[Succube Linux Driver](https://github.com/abdennour-GUESSOUM/Succube-linux-driver)** : Driver Linux en C (POSIX), modes sampling/FIFO
-- **[Afficheur OLED FPGA](https://github.com/abdennour-GUESSOUM/afficheur-oled-FPGA)** : Contrôle OLED sur ZedBoard (Zynq), VHDL/C, Vivado/Vitis
-- **[PWM Module FPGA](https://github.com/abdennour-GUESSOUM/pwm-module-FPGA)** : Module PWM matériel (VHDL) + driver C embarqué, Vivado/Vitis, Zynq-7000
+- **[Afficheur OLED](https://github.com/abdennour-GUESSOUM/afficheur-oled-FPGA)** : Contrôle OLED sur ZedBoard (Zynq), VHDL/C, Vivado/Vitis
+- **[PWM Module](https://github.com/abdennour-GUESSOUM/pwm-module-FPGA)** : Module PWM matériel (VHDL) + driver C embarqué, Vivado/Vitis, Zynq-7000
 
 ---
 
