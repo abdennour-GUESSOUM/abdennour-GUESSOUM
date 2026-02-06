@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,50:34495E,100:5D6D7E&height=180&section=header&text=Abdennour%20GUESSOUM&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Software%20Developer&descAlignY=55&descSize=18" />
 </p>
 
-<h3 align="center">🎓 Étudiant en Master 2 Infomatique à l'Université de Bretagne Occidentale Brest</h3>
+<h3 align="center"> Étudiant en Master 2 Infomatique à l'Université de Bretagne Occidentale Brest</h3>
 
 
 <p align="center">
@@ -14,17 +14,17 @@
 
 ---
 
-## 👨‍💻 À propos de moi
+##  À propos de moi
 
-🔭 **Actuellement** : Projet sur IA embarquée
+ **Actuellement** : Projet sur IA embarquée
 
-🎯 **Recherche** : Stage PFE 4-6 mois (mars 2026) - Develo logiciel/IA/Mobile/Web/Embarqué
+ **Recherche** : Stage PFE 4-6 mois (mars 2026) - Develo logiciel/IA/Mobile/Web/Embarqué
 
-🌱 **Apprentissage** : Développement mobile, IoT, Compilation noyau linux, systèmes temps réel, systèmes sur puces
+ **Apprentissage** : Développement mobile, IoT, Compilation noyau linux, systèmes temps réel, systèmes sur puces
 
-💬 **Discutons de** : IA, applications, UI, Systèmes embarqués, RTOS, drivers  
+ **Discutons de** : IA, applications, UI, Systèmes embarqués, RTOS, drivers  
 
-⚡ **Fun fact** : Passionné par l'ergonomie et l'optimisation!
+ **Fun fact** : Passionné par l'ergonomie et l'optimisation!
 
 <br/>
 
@@ -82,7 +82,7 @@
 
 ---
 
-## 💼 Compétences
+##  Compétences
 
 **Langages** : Java | Flutter | Kotlin | C/C++ | Python | Go | Ada | VHDL | Verilog
 
@@ -95,16 +95,16 @@
 ---
 
 
-## 🚀 Projets
+##  Projets
 
-### 📱 Développement Mobile / Web
+###  Développement Mobile / Web
 
 - **[INTAKHIBDZ](https://github.com/abdennour-GUESSOUM/INTAKHIBDZ)**  : Application mobile développée avec Flutter/Dart
 - **[Journal](https://github.com/abdennour-GUESSOUM/Journal)** : Application multiplateforme avec Compose Multiplatform (Kotlin)
 - **[Morpion](https://github.com/abdennour-GUESSOUM/morpion-andoird-java)** : Jeu de morpion avec bot naïf en Java
 - **[UBC](https://github.com/abdennour-GUESSOUM/UBC)** : Premier jeu 3D développé avec Babylon.js (JavaScript)
 
-### 🔬 Embarqués
+###  Embarqués
 
 - **[LeNet-5 hls4ml](https://github.com/abdennour-GUESSOUM/Lenet5-hls4ml)** : TensorFlow/Keras, hls4ml, Vitis HLS.
 - **[Succube Linux Driver](https://github.com/abdennour-GUESSOUM/Succube-linux-driver)** : Driver Linux en C (POSIX), modes sampling/FIFO
