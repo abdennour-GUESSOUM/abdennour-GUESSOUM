@@ -104,7 +104,7 @@
 - **[Morpion](https://github.com/abdennour-GUESSOUM/morpion-andoird-java)** : Jeu de morpion avec bot naïf en Java
 - **[UBC](https://github.com/abdennour-GUESSOUM/UBC)** : Premier jeu 3D développé avec Babylon.js (JavaScript)
 
-###  Embarqués
+###  Embarqué
 
 - **[LeNet-5 hls4ml](https://github.com/abdennour-GUESSOUM/Lenet5-hls4ml)** : TensorFlow/Keras, hls4ml, Vitis HLS.
 - **[Succube Linux Driver](https://github.com/abdennour-GUESSOUM/Succube-linux-driver)** : Driver Linux en C (POSIX), modes sampling/FIFO
